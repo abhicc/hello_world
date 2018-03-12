@@ -1,3 +1,4 @@
+#This is the basic start up code for my new research project. I am really excited to work on it.
 R=10;C=10   #total number of rows and columns in data
 r=2;c=2     #number of row blocks and column blocks
 #==========================================================================================
@@ -43,6 +44,3 @@ post_mean=function(sigma_prior,mu_prior,sigma,xbar,n)
   den=1/post_var(sigma_prior,sigma,n)
   return(num/den)
 }
-# nreps=1e2
-# id_row=matrix(0,nrow=nreps+1,ncol=R)
-# id_col=matrix(0,nrow=nreps+1,ncol=C)
