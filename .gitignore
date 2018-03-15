@@ -1,0 +1,13 @@
+#All files specified here will be ignored by git
+
+# Vim swap files
+*.swp
+
+# Emacs cache files
+*~
+\#*\#
+
+# OSX specific files
+.DS_Store
+
+
