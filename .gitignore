@@ -10,4 +10,13 @@
 # OSX specific files
 .DS_Store
 
-
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
