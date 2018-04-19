@@ -26,8 +26,6 @@ the folder ```categorical/```, then add a description of your features to the ta
 
 ## Feature descriptions
 
-| filename | feature name | type | NA  | dataset used | description |
-
-| -------- | ------- ---- | ---- | --- | ------- ---- | ----------- |
-
-| 		   |              |      |     |              |             |
+| filename | feature name | type | NA | dataset used | description |
+| -------- | ------------ | ---- | -- | ------------ | ----------- |
+| 		   |              |      |    |              |             |
